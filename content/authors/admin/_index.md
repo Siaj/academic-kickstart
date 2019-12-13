@@ -60,7 +60,7 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:[]
+#user_groups:[]
 ---
 
 A recent graduate (2019) from the University of Regina, Canada - enthusiastic about computer science applied to solving everyday problems. During my studies, I took several courses that involved extensive research into the subject matter as well as technical implementation(s). The courses taken included: Software Engineering, Information Visualization, Information Retrieval, Artificail Intelligence, Database Systems, Human Computer Communications, Networking, Compiler Design, IoT and JavaEE Programming.
