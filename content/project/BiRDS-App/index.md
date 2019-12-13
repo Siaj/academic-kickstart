@@ -4,7 +4,7 @@
 title: "BiRDS App"
 summary: ""
 authors: []
-tags: []
+tags: [academic]
 categories: []
 date: 2019-12-13T12:06:08-06:00
 
