@@ -17,6 +17,16 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Fulfillment Associate (casual)"
+  company = "Walmart Canada"
+  company_url = ""
+  location = "Regina East, Saskatchewan"
+  date_start = "2018-11-27"
+  date_end = ""
+  description = """"""
+
 [[experience]]
   title = "Network Operations Center Engineer"
   company = "Huawei Technologies Ghana Ltd."
