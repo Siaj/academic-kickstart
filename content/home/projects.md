@@ -22,16 +22,16 @@ subtitle = ""
   filter_default = 0
   
   # [[content.filter_button]]
-  #   name = "All"
-  #   tag = "*"
+    name = "All"
+    tag = "*"
   
   # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
+    name = "Academic"
+    tag = "academic"
   
   # [[content.filter_button]]
-  #   name = "Other"
-  #   tag = "Demo"
+    name = "Other"
+    tag = "other"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -73,5 +73,7 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
+ 
+ #https://sourcethemes.com/academic/docs/managing-content/#create-a-project
 +++
 
