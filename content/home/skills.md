@@ -15,21 +15,49 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "user-graduate"
+  icon_pack = "fas"
+  name = "Research"
+
+[[feature]]
+  icon = "user-robot"
+  icon_pack = "fas"
+  name = "Artificial Intelligence"
+  
+[[feature]]
+  icon = "java"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "Java"
+
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"  
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  icon = "cuttlefish"
+  icon_pack = "fab"
+  name = "C++" 
+  #description = "100%"
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "js-square"
+  icon_pack = "fab"
+  name = "JavaScript"  
+  
+[[feature]]
+  icon = "laptop-code"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Web Develpoment"  
+  
+[[feature]]
+  icon = "phone-volume"
+  icon_pack = "fas"
+  name = "Telecom"
+  
+[[feature]]
+  icon = "book-reader"
+  icon_pack = "fas"
+  name = "Lifelong Learner"
 
 +++
