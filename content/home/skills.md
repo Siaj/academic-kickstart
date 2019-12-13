@@ -20,7 +20,7 @@ subtitle = ""
   name = "Research"
 
 [[feature]]
-  icon = "user-robot"
+  icon = "robot"
   icon_pack = "fas"
   name = "Artificial Intelligence"
   
