@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "IoT - Fire Prevention System"
+title: "IoT System"
 summary: ""
 authors: [Sibdow Iddrisu]
 tags: [academic]
@@ -9,7 +9,8 @@ categories: []
 date: 2019-08-13T11:48:38-06:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://github.com/Siaj/Arduino-Fire-Safety-System-with-NodeMCU"
+external_link: ""
+#external_link: "https://github.com/Siaj/Arduino-Fire-Safety-System-with-NodeMCU"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

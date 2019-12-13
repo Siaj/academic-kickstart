@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "AI Recommender_System"
+title: "AI Recommender System"
 summary: ""
-authors: []
-tags: []
+authors: [Sibdow Iddrisu]
+tags: [academic]
 categories: []
 date: 2019-12-13T12:06:37-06:00
 
@@ -28,7 +28,7 @@ image:
 #   icon: twitter
 
 url_code: ""
-url_pdf: ""
+url_pdf: "/files/Recommender-System.pdf"
 url_slides: ""
 url_video: ""
 

@@ -3,13 +3,13 @@
 
 title: "BiRDS App"
 summary: ""
-authors: []
+authors: [Sibdow Iddrisu]
 tags: [academic]
 categories: []
 date: 2019-12-13T12:06:08-06:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "/files/BiRDS-documentation.pdf"
+external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -28,7 +28,7 @@ image:
 #   icon: twitter
 
 url_code: "https://github.com/Siaj/birdsApp"
-url_pdf: "/files/BiRDS-documentation.pdf"
+url_pdf: "/files/BiRDS-documentation.pdf"	#/files/BiRDS-documentation.pdf
 url_slides: ""
 url_video: ""
 
