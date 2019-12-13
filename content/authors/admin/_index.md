@@ -23,7 +23,7 @@ bio: My interest lies in solving the everyday problems faced by the globe with c
 interests:
 - Artificial Intelligence
 - Software Engineering
-- Web and Application Development
+- Web & App Development
 - Information Retrieval
 
 education:
