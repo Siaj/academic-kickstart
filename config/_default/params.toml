@@ -8,8 +8,8 @@
 # Choose a theme.
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
-#   Browse user installed themes in `data/themes/`
-theme = "forest"
+#   Browse user installed themes in `data/themes/`  mr_robot | forest
+theme = "mr_robot"
 
 # Enable users to switch between day and night mode?
 day_night = true
