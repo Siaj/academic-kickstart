@@ -20,22 +20,22 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Udemy"
-  organization_url = "https://www.udemy.com/"
+  organization_url = ""
   title = "Angular 8 - The Complete Guide"
   url = "https://www.udemy.com/course/the-complete-guide-to-angular-2/"
   certificate_url = "http://ude.my/UC-7H71TTEG"
-  date_start = "2019-09-01"
-  date_end = "2019-12-13"
+  date_start = "2019-12-13"
+  date_end = ""
   description = ""
   
 [[item]]
   organization = "Udemy"
-  organization_url = "https://www.udemy.com/"
+  organization_url = ""
   title = "Complete Python Bootcamp - Python 3"
   url = "https://www.udemy.com/course/complete-python-bootcamp/"
   certificate_url = "http://ude.my/UC-ON2HDS4G"
-  date_start = "2019-11-20"
-  date_end = "2019-12-14"
+  date_start = "2019-12-14"
+  date_end = ""
   description = ""
 
 +++
