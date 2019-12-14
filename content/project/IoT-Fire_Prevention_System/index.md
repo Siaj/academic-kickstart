@@ -18,7 +18,7 @@ external_link: ""
 image:
   caption: ""
   focal_point: "Smart"
-  preview_only: false
+  preview_only: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -29,7 +29,7 @@ image:
 #   icon: twitter
 
 url_code: "https://github.com/Siaj/Arduino-Fire-Safety-System-with-NodeMCU"
-url_pdf: "https://github.com/Siaj/Arduino-Fire-Safety-System-with-NodeMCU/blob/master/documentation/documentation.pdf"
+url_pdf: "/files/IoT-documentation.pdf"
 url_slides: ""
 url_video: ""
 
@@ -40,3 +40,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+IoT system with Arduino UNO and NodeMCU to monitor and detect conditions of fires in our homes
