@@ -40,4 +40,4 @@ url_video: ""
 slides: ""
 ---
 
-Birth and Death Registry Automation System. Find the {{% staticref "https://github.com/Siaj/birdsApp" "newtab" %}}code{{% /staticref %}} for this project on my github repository.
+Birth and Death Registry Automation System. Find the [CODE](https://github.com/Siaj/birdsApp) for this project on my github repository.

@@ -41,4 +41,4 @@ url_video: ""
 slides: ""
 ---
 
-IoT system with Arduino UNO and NodeMCU to monitor and detect conditions of fires in our homes. Find the {{% staticref "https://github.com/Siaj/Arduino-Fire-Safety-System-with-NodeMCU" "newtab" %}}code{{% /staticref %}} for this project on my github repository.
+IoT system with Arduino UNO and NodeMCU to monitor and detect conditions of fires in our homes. Find the [CODE](https://github.com/Siaj/Arduino-Fire-Safety-System-with-NodeMCU) for this project on my github repository.
