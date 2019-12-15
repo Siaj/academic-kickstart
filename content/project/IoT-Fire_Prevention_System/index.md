@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "IoT System"
-summary: ""
+summary: "IoT based system with Arduino UNO and NodeMCU"
 authors: [Sibdow Iddrisu]
 tags: [academic]
 categories: []
@@ -28,7 +28,7 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: "https://github.com/Siaj/Arduino-Fire-Safety-System-with-NodeMCU"
+url_code: ""
 url_pdf: "/files/IoT-documentation.pdf"
 url_slides: ""
 url_video: ""
@@ -41,4 +41,4 @@ url_video: ""
 slides: ""
 ---
 
-IoT system with Arduino UNO and NodeMCU to monitor and detect conditions of fires in our homes
+IoT system with Arduino UNO and NodeMCU to monitor and detect conditions of fires in our homes. Find the {{% staticref "https://github.com/Siaj/Arduino-Fire-Safety-System-with-NodeMCU" "newtab" %}}code{{% /staticref %}} for this project on my github repository.

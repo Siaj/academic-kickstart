@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "BiRDS App"
-summary: ""
+summary: "Birth and Death Registry Automation System"
 authors: [Sibdow Iddrisu]
 tags: [academic]
 categories: []
@@ -27,7 +27,7 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: "https://github.com/Siaj/birdsApp"
+url_code: ""
 url_pdf: "/files/BiRDS-documentation.pdf"	#/files/BiRDS-documentation.pdf
 url_slides: ""
 url_video: ""
@@ -40,4 +40,4 @@ url_video: ""
 slides: ""
 ---
 
-Birth and Death Registry Automation System
+Birth and Death Registry Automation System. Find the {{% staticref "https://github.com/Siaj/birdsApp" "newtab" %}}code{{% /staticref %}} for this project on my github repository.

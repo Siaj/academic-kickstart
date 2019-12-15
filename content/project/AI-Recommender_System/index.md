@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "AI Recommender System"
-summary: ""
+title: "Recommender"
+summary: "AI/Machine Learning Project"
 authors: [Sibdow Iddrisu]
 tags: [academic]
 categories: []
@@ -40,4 +40,4 @@ url_video: ""
 slides: ""
 ---
 
-Artificail Intelligence/Machine Learning Project - Recommender System for movies recommendation based on various techniques for recommendation
+Artificail Intelligence/Machine Learning Project - Recommender System for movies recommendation based on various techniques for recommendation. Find the {{% staticref "https://github.com/Siaj" "newtab" %}}code{{% /staticref %}} for this project on my github repository.
