@@ -90,7 +90,7 @@ phone = "+1 306 581 1592"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "2 University Park Drive", city = "Regina", region = "SK", postcode = "S4V 0C9", country = "Canada", country_code = "CA"}
+address = {street = "2 University Park Drive", city = "Regina", region = "SK", postcode = "S4V 0C9", country = "Canada", countrycode = "CA"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -168,12 +168,12 @@ plugins_js  = []
 
 # Available address formats.
 [address_formats]
+  siaj-custom = {order = ['country', 'countrycode'], delimiters = [', ', '']}
   en-us = {order = ['street', 'city', 'region', 'postcode'], delimiters = [', ', ', ', ' ', '']}
   en-gb = {order = ['street', 'city', 'region', 'postcode'], delimiters = [', ', ', ', ', ', '']}
   de = {order = ['street', 'postcode', 'city'], delimiters = [', ', ' ', '']}
   fr-fr = {order = ['street', 'postcode', 'city'], delimiters = ['<br>', ' ', '']}
   zh = {order = ['postcode', 'region', 'city', 'street'], delimiters = [' ', ' ', ' ', '']}
-  siaj-custom = {order = ['country', 'country_code'], delimiters = [', ', ', ']}
 
 # Configuration of publication pages.
 [publications]
