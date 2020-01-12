@@ -168,7 +168,7 @@ plugins_js  = []
 
 # Available address formats.
 [address_formats]
-  siaj-custom = {order = ['country', 'countrycode'], delimiters = [', ', '']}
+  siaj-custom = {order = ['country'], delimiters = ['']}
   en-us = {order = ['street', 'city', 'region', 'postcode'], delimiters = [', ', ', ', ' ', '']}
   en-gb = {order = ['street', 'city', 'region', 'postcode'], delimiters = [', ', ', ', ', ', '']}
   de = {order = ['street', 'postcode', 'city'], delimiters = [', ', ' ', '']}
