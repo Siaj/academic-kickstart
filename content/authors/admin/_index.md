@@ -67,7 +67,7 @@ email: ""
 
 A recent graduate (2019) from the University of Regina, Canada - enthusiastic about computer science applied to solving everyday problems. During my studies, I took several courses that involved extensive research into the subject matter as well as technical implementation(s). The courses taken included: Software Engineering, Information Visualization, Information Retrieval, Artificail Intelligence, Database Systems, Human Computer Communications, Networking, Compiler Design, IoT and JavaEE Programming.
 
-Rich experience in the telecommunications industry as a NOC Engineer - monitoring and troubleshooting fault alarms - on remote cell towers of the biggest telecommunications company in Ghana - MTN. Acquired time management skills, decision making, being able to work under pressure, multitasking, prioritization, customer management skills and many other soft skills during this period
+I have rich experience in the telecommunications industry as a NOC Engineer - monitoring and troubleshooting fault alarms - on remote cell towers of the biggest telecommunications company in Ghana - MTN. Acquired time management skills, decision making, being able to work under pressure, multitasking, prioritization, customer management skills and many other soft skills during this period
 
 Also, I have extensive hands-on programming experience gained on courses taken in class and online, personal projects and internship. Programming languages I have worked with include: Python, Java, JavaScript, C++ and Arduino C. Web development experience in JavaScript(Angular, React), Java(J2EEE) and Pyhton(Django, Django CMS)
 
