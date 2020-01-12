@@ -51,9 +51,9 @@ social:
   link: https://github.com/Siaj
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: files/cv.pdf
+#- icon: cv
+#  icon_pack: ai
+#  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -67,6 +67,6 @@ A recent graduate (2019) from the University of Regina, Canada - enthusiastic ab
 
 Rich experience in the telecommunications industry as a NOC Engineer - monitoring and troubleshooting fault alarms - on remote cell towers of the biggest telecommunications company in Ghana - MTN. Acquired time management skills, decision making, being able to work under pressure, multitasking, prioritization, customer management skills and many other soft skills during this period
 
-Also, I have extensive programming experience gained on courses taken in class and online, personal projects and internships. Languages I have worked with include: Python, Java, C++ and Arduino C. Web development experience in JavaScript(Angular), Java(JavaEE) and Pyhton(Django, Django CMS)
+Also, I have extensive hands-on programming experience gained on courses taken in class and online, personal projects and internship. Programming languages I have worked with include: Python, Java, JavaScript, C++ and Arduino C. Web development experience in JavaScript(Angular, React), Java(J2EEE) and Pyhton(Django, Django CMS)
 
-Please find attached my {{% staticref "files/cv.pdf" "newtab" %}}resume{{% /staticref %}} for more details
+#Please find attached my {{% staticref "files/cv.pdf" "newtab" %}}resume{{% /staticref %}} for more details
