@@ -61,6 +61,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 #user_groups:[]
+
+#Please find attached my {{% staticref "files/cv.pdf" "newtab" %}}resume{{% /staticref %}} for more details
 ---
 
 A recent graduate (2019) from the University of Regina, Canada - enthusiastic about computer science applied to solving everyday problems. During my studies, I took several courses that involved extensive research into the subject matter as well as technical implementation(s). The courses taken included: Software Engineering, Information Visualization, Information Retrieval, Artificail Intelligence, Database Systems, Human Computer Communications, Networking, Compiler Design, IoT and JavaEE Programming.
@@ -69,4 +71,4 @@ Rich experience in the telecommunications industry as a NOC Engineer - monitorin
 
 Also, I have extensive hands-on programming experience gained on courses taken in class and online, personal projects and internship. Programming languages I have worked with include: Python, Java, JavaScript, C++ and Arduino C. Web development experience in JavaScript(Angular, React), Java(J2EEE) and Pyhton(Django, Django CMS)
 
-#Please find attached my {{% staticref "files/cv.pdf" "newtab" %}}resume{{% /staticref %}} for more details
+
