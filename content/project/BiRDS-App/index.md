@@ -3,7 +3,7 @@
 
 title: "BiRDS App"
 summary: "Birth and Death Registry Automation System"
-authors: [Sibdow Iddrisu]
+authors: [admin]
 tags: [academic]
 categories: []
 date: 2019-12-13T12:06:08-06:00

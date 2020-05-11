@@ -3,7 +3,7 @@
 
 title: "Django"
 summary: "My Django"
-authors: [Sibdow Iddrisu]
+authors: [admin]
 tags: [other]
 categories: []
 date: 2019-12-15T00:44:06-06:00

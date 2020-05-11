@@ -3,7 +3,7 @@
 
 title: "IoT System"
 summary: "IoT based system with Arduino UNO and NodeMCU"
-authors: [Sibdow Iddrisu]
+authors: [admin]
 tags: [academic]
 categories: []
 date: 2019-08-13T11:48:38-06:00

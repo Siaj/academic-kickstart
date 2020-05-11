@@ -4,7 +4,7 @@
 title: "PASSING MY AWS CERTIFIED SAA EXAM"
 subtitle: ""
 summary: "Tools and Materials I used to prepare for and pass my AWS certification exam"
-authors: []
+authors: [admin]
 tags: []
 categories: []
 date: 2020-05-09T19:57:26-06:00
@@ -54,13 +54,13 @@ __1. AWS Whitepapers & Other Materials:__
 
 <div id="vid_train" style="padding-top: 20px"></div>
 
-__2. Videos:__
+__2. Videos Tutorials on Udemy:__
   * <a href="https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02/" target="_blank">Stephane Maarek</a>  
   * <a href="https://www.udemy.com/course/aws-certified-solutions-architect-associate/" target="_blank">A Cloud Guru</a>
 
 <div id="practice" style="padding-top: 20px"></div>
 
-__3. Practice Exam:__
+__3. Practice Exams on Udemy:__
   * <a href="https://www.udemy.com/course/aws-certified-solutions-architect-associate-amazon-practice-exams-saa-c02/" target="_balnk">Solutions Architect Practice Exams</a>
 
 

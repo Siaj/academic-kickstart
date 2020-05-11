@@ -3,7 +3,7 @@
 
 title: "Angular"
 summary: "My Angular"
-authors: [Sibdow Iddrisu]
+authors: [admin]
 tags: [other]
 categories: []
 date: 2019-12-15T00:43:28-06:00

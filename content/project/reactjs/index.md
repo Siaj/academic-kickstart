@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Recommender"
-summary: "AI/Machine Learning Project"
+title: "Reactjs"
+summary: "My React JS Projects"
 authors: [admin]
-tags: [academic]
+tags: [other]
 categories: []
-date: 2019-12-13T12:06:37-06:00
+date: 2020-05-10T18:39:53-06:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -17,7 +17,7 @@ external_link: ""
 image:
   caption: ""
   focal_point: "Smart"
-  preview_only: true
+  preview_only: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -28,7 +28,7 @@ image:
 #   icon: twitter
 
 url_code: ""
-url_pdf: "/files/Recommender-System.pdf"
+url_pdf: ""
 url_slides: ""
 url_video: ""
 
@@ -39,5 +39,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-
-Artificail Intelligence/Machine Learning Project - Recommender System for movies recommendation based on various techniques for recommendation. Find the [CODE](https://github.com/Siaj) for this project on my github repository.
+{{% alert note %}}
+The page is currently under construction
+{{% /alert %}}
