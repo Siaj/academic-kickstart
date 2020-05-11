@@ -18,14 +18,24 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+# [[experience]]
+#  title = "Fulfillment Associate"
+#  company = "Walmart Canada"
+#  company_url = ""
+#  location = "Regina East, Saskatchewan"
+#  date_start = "2018-11-27"
+#  date_end = "2020-02-28"
+#  description = """"""
+
 [[experience]]
-  title = "Fulfillment Associate (casual)"
-  company = "Walmart Canada"
+  title = "Java & Python Developer"
+  company = "Self Employed"
   company_url = ""
-  location = "Regina East, Saskatchewan"
-  date_start = "2018-11-27"
+  location = "Canada"
+  date_start = "2017-01-01"
   date_end = ""
   description = """"""
+
 
 [[experience]]
   title = "Network Operations Center Engineer"
@@ -37,7 +47,7 @@ date_format = "Jan 2006"
   description = """"""
 
 [[experience]]
-  title = "J2EE Software Engineer Intern"
+  title = "Java Software Engineer Intern"
   company = "Sabonay Technologies Ltd."
   company_url = ""
   location = "Kumasi, Ghana"

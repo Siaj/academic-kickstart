@@ -19,6 +19,46 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Amazon Web Services"
+  organization_url = ""
+  title = "AWS Certified Solutions Architect - Associate"
+  url = "https://aws.amazon.com/certification/certified-solutions-architect-associate/"
+  certificate_url = "https://www.youracclaim.com/badges/ad452bd0-dfe9-4e71-983d-786a78364b40/public_url"
+  date_start = "2020-04-01"
+  date_end = "2023-04-27"
+  description = ""
+
+  [[item]]
+  organization = "Amazon Web Services"
+  organization_url = ""
+  title = "AWS Certified Cloud Practitioner"
+  url = "https://aws.amazon.com/certification/certified-cloud-practitioner/"
+  certificate_url = "https://www.youracclaim.com/badges/ba665c55-a969-4ddf-947d-f18df84fe40e/public_url"
+  date_start = "2020-04-01"
+  date_end = "2023-04-27"
+  description = ""
+
+  [[item]]
+  organization = "Microsoft"
+  organization_url = ""
+  title = "Microsoft Certified: Azure Fundamentals"
+  url = "https://www.udemy.com/course/the-complete-guide-to-angular-2"
+  certificate_url = "https://www.youracclaim.com/badges/d4ef6d51-88b2-4df4-86a6-18052d19a310/public_url"
+  date_start = "2020-04-06"
+  date_end = ""
+  description = ""
+
+  [[item]]
+  organization = "A Cloud Guru"
+  organization_url = ""
+  title = "AWS Lambda"
+  url = ""
+  certificate_url = "https://verify.acloud.guru/232022D74F3A"
+  date_start = "2020-04-01"
+  date_end = ""
+  description = ""
+
+[[item]]
   organization = "Udemy"
   organization_url = ""
   title = "Angular 8 - The Complete Guide"
